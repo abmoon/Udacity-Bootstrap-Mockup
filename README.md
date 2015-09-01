@@ -5,4 +5,4 @@ Bootstrap mockup for Udacity's Nanodegree
 
 http://nbviewer.ipython.org/github/abmoon/Udacity-Bootstrap-Mockup/blob/master/Index.html
 
-[Final Version]: (https://github.com/abmoon/Udacity-Bootstrap-Mockup/blob/master/Final-Version-Mug.png)
+[Final Version](https://github.com/abmoon/Udacity-Bootstrap-Mockup/blob/master/Final-Version-Mug.png)
