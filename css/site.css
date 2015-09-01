@@ -1,0 +1,52 @@
+﻿
+* {
+  font-family: 'Lucida Grande', sans-serif;
+  font-weight: bold;
+  color: #aaaaaa;
+  line-height: 200%;
+  letter-spacing: 1px;
+  font-size: 13px;
+}
+
+.subheader {
+  margin-top: 100px;
+}
+
+.main{
+  margin-top: 30px;
+
+}
+
+.sidebar-image {
+  
+  margin-top: 20px;
+}
+
+.container h2 {
+  
+  color: #F07C17;
+  margin-top: 0px;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+.title-super { 
+  margin-top: 45px;
+  color: #666666;
+  letter-spacing: .5x;
+  font-size: 50px;
+}
+
+
+#box{
+  border-style: solid; 
+  border-width: 1px;
+  border-color: #CCCCCC;
+
+ margin-top: 25px;
+
+  padding-left: 25px;
+  padding-top: 25px';
+  
+
+}
